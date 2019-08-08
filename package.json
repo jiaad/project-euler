@@ -1,0 +1,23 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem_1_5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaad/project-euler.git"
+  },
+  "keywords": [
+    "euler",
+    "projetc"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiaad/project-euler/issues"
+  },
+  "homepage": "https://github.com/jiaad/project-euler#readme"
+}
